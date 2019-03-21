@@ -94,9 +94,9 @@ public class HelloWorld {
         //averageOfTheNumbers();
         //swapValuesFistMethod();
         //swapValuesSecondMethod();
-        //areaOfHexagon();
-        //oddNumbers();
-        //task6();
+        areaOfHexagon();
+        oddNumbers();
+        task6();
         task7();
     }
 }
